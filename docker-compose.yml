@@ -1,0 +1,33 @@
+# Full stack locally: docker compose up --build  ->  http://localhost:8080
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: wastewise
+      POSTGRES_PASSWORD: wastewise
+      POSTGRES_DB: wastewise
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U wastewise"]
+      interval: 5s
+      retries: 10
+
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql+psycopg://wastewise:wastewise@db:5432/wastewise
+      JWT_SECRET: local-docker-secret-change-me-at-least-32-bytes
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web:
+    build: ./frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+
+volumes:
+  pgdata:

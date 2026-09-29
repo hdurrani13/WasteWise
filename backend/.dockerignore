@@ -1,0 +1,7 @@
+__pycache__
+*.db
+.pytest_cache
+.ruff_cache
+tests
+data/model.joblib
+.env

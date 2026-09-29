@@ -1,0 +1,19 @@
+#!/bin/bash
+set -euxo pipefail
+
+dnf install -y docker git
+systemctl enable --now docker
+mkdir -p /usr/local/lib/docker/cli-plugins
+curl -fsSL "https://github.com/docker/compose/releases/latest/download/docker-compose-linux-x86_64" \
+  -o /usr/local/lib/docker/cli-plugins/docker-compose
+chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
+
+git clone ${repo_url} /opt/wastewise
+cd /opt/wastewise
+cat > .env <<ENV
+POSTGRES_PASSWORD=${db_password}
+JWT_SECRET=${jwt_secret}
+SITE_ORIGIN=*
+ENV
+chmod 600 .env
+docker compose -f docker-compose.prod.yml up -d --build

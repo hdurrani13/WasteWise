@@ -1,0 +1,60 @@
+text,bin
+aluminium tray,recycling
+aluminum baking tray,recycling
+tin foil,recycling
+metal can,recycling
+steel can,recycling
+pop can,recycling
+beer can,recycling
+food can,recycling
+plastic bottle,recycling
+plastic jug,recycling
+plastic tub,recycling
+plastic container,recycling
+margarine tub,recycling
+glass container,recycling
+cardboard,recycling
+carton,recycling
+paper,recycling
+envelope,recycling
+paperboard box,recycling
+tetra pak,recycling
+spray can empty,recycling
+food scraps,compost
+leftovers,compost
+fruit,compost
+vegetables,compost
+peel,compost
+compostable,compost
+greasy paper,compost
+soiled paper,compost
+yard waste,compost
+plant trimmings,compost
+foam packaging,garbage
+styrofoam,garbage
+soft plastic wrapper,garbage
+chip packet,garbage
+broken dishes,garbage
+porcelain plate,garbage
+plastic film,garbage
+disposable razor,garbage
+wet wipes,garbage
+cotton swab,garbage
+electronic device,ewaste
+anything with a plug,ewaste
+cable,ewaste
+charger cord,ewaste
+small appliance,ewaste
+smartwatch,ewaste
+speaker,ewaste
+remote control,ewaste
+chemicals,hazardous
+flammable liquid,hazardous
+solvent,hazardous
+paint thinner,hazardous
+gasoline,hazardous
+batteries,hazardous
+cleaning chemicals,hazardous
+fertilizer,hazardous
+pool chemicals,hazardous
+mercury,hazardous

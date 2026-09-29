@@ -1,0 +1,126 @@
+name,category,bin,tip
+plastic water bottle,Plastic,recycling,Empty and replace the cap before recycling.
+plastic milk jug,Plastic,recycling,Rinse it out first.
+yogurt container,Plastic,recycling,Rinse out leftover yogurt.
+shampoo bottle,Plastic,recycling,Empty it; pumps go in the garbage.
+laundry detergent jug,Plastic,recycling,Empty and rinse.
+plastic takeout container,Plastic,recycling,Scrape out food and rinse.
+clear plastic clamshell,Plastic,recycling,Berry and salad containers are accepted in most programs.
+plastic grocery bag,Plastic,recycling,Bundle bags together inside one bag.
+bubble wrap,Plastic,garbage,Soft plastics like this jam sorting machines.
+chip bag,Plastic,garbage,Multi-layer foil bags can't be recycled.
+candy wrapper,Plastic,garbage,Mixed-material wrappers go in the garbage.
+styrofoam cup,Plastic,garbage,Polystyrene foam isn't accepted curbside.
+styrofoam meat tray,Plastic,garbage,Foam trays go in the garbage.
+plastic straw,Plastic,garbage,Too small to be sorted.
+plastic cutlery,Plastic,garbage,Too small to be sorted.
+toothbrush,Plastic,garbage,Mixed plastic and nylon.
+plastic toy,Plastic,garbage,Donate it if it still works.
+cling wrap,Plastic,garbage,Film this thin can't be recycled.
+aluminum can,Metal,recycling,Rinse it; no need to crush.
+soda can,Metal,recycling,Empty and rinse.
+tin can,Metal,recycling,Rinse; put the lid inside the can.
+aluminum foil,Metal,recycling,Clean foil only; ball it up.
+aluminum pie plate,Metal,recycling,Clean off any food.
+aerosol can,Metal,recycling,Only if completely empty.
+metal jar lid,Metal,recycling,Rinse off any food.
+paint can,Metal,hazardous,Leftover paint is household hazardous waste.
+propane tank,Metal,hazardous,Take to a hazardous waste depot; never put curbside.
+glass bottle,Glass,recycling,Rinse and remove the cap.
+glass jar,Glass,recycling,Rinse; recycle the metal lid separately.
+wine bottle,Glass,recycling,Many provinces also refund a deposit on these.
+beer bottle,Glass,recycling,Return it for a deposit refund where available.
+drinking glass,Glass,garbage,Drinking glass melts at a different temperature than bottle glass.
+broken mirror,Glass,garbage,Wrap it safely before putting it in the garbage.
+light bulb,Glass,garbage,Incandescent bulbs go in the garbage.
+window glass,Glass,garbage,Wrap sharp edges before disposal.
+ceramic mug,Glass,garbage,Ceramics can't be recycled with glass.
+cardboard box,Paper,recycling,Flatten boxes to save space.
+pizza box,Paper,compost,Greasy boxes go in compost; clean lids can be recycled.
+newspaper,Paper,recycling,Keep it dry.
+magazine,Paper,recycling,Glossy paper is accepted.
+office paper,Paper,recycling,Staples are fine.
+junk mail,Paper,recycling,Envelopes with windows are fine.
+paper bag,Paper,recycling,Reuse it or recycle it.
+cereal box,Paper,recycling,Remove the plastic liner first.
+egg carton,Paper,compost,Paper egg cartons can be composted or recycled.
+paper towel,Paper,compost,Used paper towels go in compost.
+napkin,Paper,compost,Food-soiled napkins go in compost.
+tissue,Paper,compost,Used tissues go in compost.
+paper coffee cup,Paper,garbage,The plastic lining makes these hard to recycle; lids may be recyclable.
+milk carton,Paper,recycling,Rinse; cartons are accepted in most programs.
+juice box,Paper,recycling,Push the straw inside.
+wrapping paper,Paper,recycling,Foil or glitter paper goes in the garbage.
+shredded paper,Paper,recycling,Put it in a paper bag first.
+receipt,Paper,garbage,Thermal paper contains BPA and can't be recycled.
+book,Paper,recycling,Donate it if it's in good shape.
+sticky note,Paper,recycling,Small amounts are fine.
+banana peel,Food,compost,All fruit and vegetable scraps can be composted.
+apple core,Food,compost,Compost it.
+orange peel,Food,compost,Compost it.
+coffee grounds,Food,compost,Paper filters can go in too.
+tea bag,Food,compost,Remove any staple first.
+eggshells,Food,compost,Compost them.
+bread,Food,compost,Compost stale bread.
+leftover pasta,Food,compost,Cooked food can be composted.
+meat scraps,Food,compost,Most city green-bin programs accept meat and bones.
+chicken bones,Food,compost,Accepted in most city green-bin programs.
+fish skin,Food,compost,Wrap it in newspaper to control odor.
+cheese,Food,compost,Dairy is accepted in most city programs.
+vegetable peels,Food,compost,Compost them.
+rotten fruit,Food,compost,Compost it.
+nut shells,Food,compost,Compost them.
+corn cob,Food,compost,Compost it.
+rice,Food,compost,Compost it.
+grass clippings,Yard,compost,Or leave them on the lawn as fertilizer.
+leaves,Yard,compost,Bag them in paper yard waste bags.
+tree branches,Yard,compost,Bundle and tie small branches.
+flowers,Yard,compost,Compost them.
+weeds,Yard,compost,Compost them.
+houseplant soil,Yard,compost,Small amounts are fine.
+wood chips,Yard,compost,Untreated wood only.
+phone,Electronics,ewaste,Wipe your data first; many stores take phones back.
+laptop,Electronics,ewaste,Wipe the drive before dropping it off.
+tablet,Electronics,ewaste,Take it to an e-waste depot.
+computer monitor,Electronics,ewaste,Take it to an e-waste depot.
+television,Electronics,ewaste,Take it to an e-waste depot.
+keyboard,Electronics,ewaste,Take it to an e-waste depot.
+computer mouse,Electronics,ewaste,Take it to an e-waste depot.
+phone charger,Electronics,ewaste,Cables and chargers are e-waste.
+headphones,Electronics,ewaste,Take them to an e-waste depot.
+printer,Electronics,ewaste,Remove the ink cartridges first.
+ink cartridge,Electronics,ewaste,Many office stores take them back.
+game console,Electronics,ewaste,Take it to an e-waste depot.
+microwave,Electronics,ewaste,Small appliances are e-waste.
+toaster,Electronics,ewaste,Small appliances are e-waste.
+hair dryer,Electronics,ewaste,Small appliances are e-waste.
+electric toothbrush,Electronics,ewaste,It contains a battery.
+battery,Hazardous,hazardous,Tape the terminals; take to a battery drop-off.
+car battery,Hazardous,hazardous,Retailers usually take these back.
+lithium battery,Hazardous,hazardous,Fire risk in trucks; never put in the garbage.
+fluorescent bulb,Hazardous,hazardous,Contains mercury.
+cfl bulb,Hazardous,hazardous,Contains mercury.
+motor oil,Hazardous,hazardous,Take it to an oil recycling depot.
+antifreeze,Hazardous,hazardous,Take it to a hazardous waste depot.
+bleach,Hazardous,hazardous,Take leftovers to a hazardous waste depot.
+pesticide,Hazardous,hazardous,Take it to a hazardous waste depot.
+nail polish,Hazardous,hazardous,Flammable; hazardous waste.
+medication,Hazardous,hazardous,Return it to a pharmacy.
+needles,Hazardous,hazardous,Use a sharps container; pharmacies accept them.
+thermometer,Hazardous,hazardous,Mercury thermometers are hazardous.
+smoke detector,Hazardous,hazardous,Some contain radioactive material; return to the manufacturer.
+lighter,Hazardous,hazardous,Butane lighters are hazardous.
+diaper,Other,garbage,Diapers go in the garbage.
+cat litter,Other,garbage,Bag it first.
+dog poop bag,Other,garbage,Bag it and put it in the garbage.
+cigarette butt,Other,garbage,Make sure it's fully out.
+chewing gum,Other,garbage,Garbage.
+clothes,Textiles,garbage,Donate wearable clothes instead.
+shoes,Textiles,garbage,Donate wearable pairs.
+sponge,Other,garbage,Garbage.
+vacuum bag,Other,garbage,Garbage.
+dryer lint,Other,garbage,Synthetic fibres mean it goes in the garbage.
+rubber gloves,Other,garbage,Garbage.
+face mask,Other,garbage,Garbage.
+pen,Other,garbage,Garbage.
+coffee pod,Other,garbage,Unless labelled compostable.
