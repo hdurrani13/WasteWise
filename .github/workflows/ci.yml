@@ -21,7 +21,7 @@ jobs:
       - run: pip install -r requirements-dev.txt
       - run: ruff check .
       - run: ruff format --check .
-      - run: pytest -q
+      - run: python -m pytest -q
       - name: Report model accuracy
         run: python -m app.ml.train | tail -2
 
